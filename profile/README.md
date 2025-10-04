@@ -1,16 +1,20 @@
-# SanJackLee Digital
+# Welcome to SanJackLee Digital GitHub organization
 
-**"SanJackLee Digital"** is a Bosnia-based digital agency founded by [**BakirGracic**](https://github.com/BakirGracic).  
-This GitHub organization serves as the central codebase for all projects under "SanJackLee Digital".
+This GitHub organization serves as the central codebase repository for all projects by _SanJackLee Digital_
 
-## What I Do
-I design and build modern digital solutions for Bosnian and global markets, including:
-- Web applications 
+## What We Do
+- Web apps & systems
 - Mobile apps 
 - IoT systems 
 - CCTV integrations 
-- Artificial Intelligence solutions 
-- Other custom digital technologies 
+- AI solutions 
+
+## Our Core Services
+- Solution Architecture
+- AI Integrations
+- Digital Transformations
+- MVP & Prototyping
+- SaaS Solutions
 
 ## Contact
 - 📧 Email [contact@sanjacklee.digital](mailto:contact@sanjacklee.digital)  
